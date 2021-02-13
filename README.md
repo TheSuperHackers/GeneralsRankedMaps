@@ -6,7 +6,7 @@ This repository contains all Generals Zero Hour Ranked Maps.
 https://confluence.atlassian.com/get-started-with-sourcetree
 
 ## How to contribute
-Please Fork this repository and create a Pull Request for files in candidate folders only.
+Please create GitHub Account with identifiable community nickname and fork this repository. You can then add or change maps in candidate folder. When done, please create a Pull Request and reposity owner will accept it after review.
 
 ## Core files and folders
 candidate/maps_1v1_zh : Contains all new 1v1 ranked map candidates
