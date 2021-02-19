@@ -1,0 +1,20 @@
+SCRIPT:Degrees
+"Number of Degrees (Halved) / Bridge Counter"
+End
+
+SCRIPT:RotationDelay
+"Rotation Delay"
+End
+
+SCRIPT:SlotNumber
+"Slot Number"
+End
+
+SCRIPT:TrainDelay
+"Train Delay"
+End
+
+Briefing:HellOnRails
+"HeII on Rails
+\nBy Newgate"
+End
