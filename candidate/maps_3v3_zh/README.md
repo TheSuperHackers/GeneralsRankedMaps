@@ -1,1 +1,0 @@
-3v3 Ranked Map Candidates
