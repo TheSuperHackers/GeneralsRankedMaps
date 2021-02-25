@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Issue Description**
+A clear and concise description of what the problem is.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what is expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Screenshot of the problem, if applicable.
