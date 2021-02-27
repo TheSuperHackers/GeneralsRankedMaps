@@ -18,7 +18,9 @@ All maps must adhere to the following standards for future ranking:
 7. No graphics on the map that belong to real or fictional characters/groups/organizations
 8. Correct map credits in short text line or no credits
 9. No map.ini changes that carry over to other maps
-10. Proper map name that fits the overall style of Official Maps
+10. Map name fits the overall style of Official Maps and ReLaX Maps
+11. Map name ends with **vX** tag where **v** stands for version and **X** is a number
+12. Zero Hour map name contains **ZH** tag before **vX** tag
 
 ## How to contribute as Map Tester
 Please create GitHub Account with identifiable community nickname and download maps you want to test from this website and repository. When problem with map is found, you can post it in the Issues (https://github.com/xezon/GeneralsRankedMaps/issues) section. Please tag map class, type and name in at begin of any issue report:
