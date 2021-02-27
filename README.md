@@ -8,6 +8,18 @@ https://confluence.atlassian.com/get-started-with-sourcetree
 ## How to contribute as Map Creator
 Please create GitHub Account with identifiable community nickname and fork this repository. You can then add or change maps in candidate folder. When done, please create a Pull Request and reposity owner will accept it after review.
 
+All maps must adhere to the following standards for future ranking:
+1. Fair map layout that gives all players and teams equal chance of winning
+2. AI support
+3. No usable cars
+4. Natural ambient light and shadows
+5. Correct map border which allows camera to see all usable terrain
+6. No campaign sounds or scripts
+7. No graphics on the map that belong to real or fictional characters/groups/organizations
+8. Correct map credits in short text line or no credits
+9. No map.ini changes that carry over to other maps
+10. Proper map name that fits the overall style of Official Maps
+
 ## How to contribute as Map Tester
 Please create GitHub Account with identifiable community nickname and download maps you want to test from this website and repository. When problem with map is found, you can post it in the Issues (https://github.com/xezon/GeneralsRankedMaps/issues) section. Please tag map class, type and name in at begin of any issue report:
 
