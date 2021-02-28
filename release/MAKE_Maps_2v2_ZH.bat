@@ -2,7 +2,6 @@
 echo off
 set FILENAME=Maps_2v2_ZH.zip
 set MAPS=
-set MAPS=%MAPS% "maps_2v2_zh/[RANK] Christmas ZH v3/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Conflict Zone ZH v2/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Desert Combat ZH v2/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] FE NoBug ZH v1/*"
