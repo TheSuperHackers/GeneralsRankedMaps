@@ -13,14 +13,16 @@ All maps must adhere to the following standards for future ranking:
 2. AI support
 3. No usable cars
 4. Natural ambient light and shadows
-5. Correct map border which allows camera to see all usable terrain
+5. Natural ambient sounds
 6. No campaign sounds or scripts
 7. No graphics on the map that belong to real or fictional characters/groups/organizations
-8. Correct map credits in short text line or no credits
+8. Correct map credits in short text line or no credits (*1)
 9. No map.ini changes that carry over to other maps
 10. Map name fits the overall style of Official Maps and ReLaX Maps
 11. Map name ends with **vX** tag where **v** stands for version and **X** is a number
 12. Zero Hour map name contains **ZH** tag before **vX** tag
+
+*1 Two styles are accepted: "Map created by MAPCREATOR" and "MAPNAME, by MAPCREATOR". Map name must not have **ZH** and **vX** tag.
 
 ## How to contribute as Map Tester
 Please create GitHub Account with identifiable community nickname and download maps you want to test from this website and repository. When problem with map is found, you can post it in the Issues (https://github.com/xezon/GeneralsRankedMaps/issues) section. Please tag map class, type and name in at begin of any issue report:
