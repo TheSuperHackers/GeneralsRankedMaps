@@ -2,6 +2,7 @@
 Map: Imminent Victory
 Players: 2
 Date first released to community: 4th November 2020 (UK)
+Date v2 released to community: 25th March 2021 (UK)
 Map Maker: Jundiyy
 Contact: the-onejundiyy@hotmail.com
 Thanks: To everyone that helped me in the past, especially to my good mates Kobane, E-3 and Punisher for helping with many of my maps.
