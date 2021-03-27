@@ -32,26 +32,17 @@ Please create GitHub Account with identifiable community nickname and download m
 **[Candidate 2v2 Hotel Prince Kassad]** Oil Derrick cannot be destroyed
 
 ## Core files and folders
-backlog   : Contains all maps that do not qualify for ranked maps. Maps can be edited.
-
-candidate : Contains all maps that are being evaluared to qualify for ranked maps.  Maps can be edited.
-
-release   : Contains all maps that are ranked and final. Maps cannot be edited. New map versions will qualify for GenTool Auto Download.
-
-maps_1v1_zh : Contains all 1v1 (2 player) maps
-
-maps_2v2_zh : Contains all 2v2 (4 player) maps
-
-maps_3v3_zh : Contains all 3v3 (6 player) maps
-
-maps_4v4_zh : Contains all 4v4 (8 player) maps
-
-maps_fun_zh : Contains all fun maps
-
-release/MAKE_Maps_1v1_ZH.bat : Creates ZIP file with all 1v1 maps downloaded and installed by GenTool
-
-release/MAKE_Maps_2v2_ZH.bat : Creates ZIP file with all 2v2 maps downloaded and installed by GenTool
-
-release/MAKE_Maps_3v3_ZH.bat : Creates ZIP file with all 3v3 and fun maps downloaded and installed by GenTool
-
-release/MAKE_Maps_All_Ranked_ZH.bat : Creates ZIP file with all maps that are ranked with GenTool & Shatabrick
+| Folder/subfolder/file               | Description  |
+| ----------------------------------- | ------------ |
+| backlog                             | Contains all maps that do not qualify for ranked maps. Maps can be edited. |
+| candidate                           | Contains all maps that are being evaluated to qualify for ranked maps.  Maps can be edited. |
+| release                             | Contains all maps that are ranked and final. Maps cannot be edited. New map versions will qualify for GenTool Auto Download. |
+| maps_1v1_zh                         | Contains all 1v1 (2 player) maps |
+| maps_2v2_zh                         | Contains all 2v2 (4 player) maps |
+| maps_3v3_zh                         | Contains all 3v3 (6 player) maps |
+| maps_4v4_zh                         | Contains all 4v4 (8 player) maps |
+| maps_fun_zh                         | Contains all fun maps |
+| release/MAKE_Maps_1v1_ZH.bat        | Creates ZIP file with all 1v1 maps downloaded and installed by GenTool |
+| release/MAKE_Maps_2v2_ZH.bat        | Creates ZIP file with all 2v2 maps downloaded and installed by GenTool |
+| release/MAKE_Maps_3v3_ZH.bat        | Creates ZIP file with all 3v3 and fun maps downloaded and installed by GenTool |
+| release/MAKE_Maps_All_Ranked_ZH.bat | Creates ZIP file with all maps that are ranked with GenTool & Shatabrick |
