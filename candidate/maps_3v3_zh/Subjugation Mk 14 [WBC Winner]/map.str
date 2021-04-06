@@ -1,24 +1,3 @@
 Firefly Valley
 "Map created by Newgate"
 End
-
-SCRIPT:Sell your Demo Trap to vote against the Firefly FX
-"Sell your Demo Trap to vote against the Firefly FX"
-End
-
-SCRIPT:Vote Number
-"Number of votes not counted"
-End
-
-SCRIPT:Vote Count
-"Vote tally x2"
-End
-
-At least half did not sell their Demos, the Fireflies will remain
-"At least half did not sell their Demos, the Fireflies will remain"
-End
-
-More than half sold their Demos, the Fireflies will be removed
-"More than half sold their Demos, the Fireflies will be removed"
-End
-
