@@ -1,7 +1,7 @@
 :: 1v1
 call RENAME_From_To.bat "[NMC] Plant Waste v2" "[RANK] Plant Waste ZH v2"
 call RENAME_From_To.bat "Abandoned Farms ZH v1" "[RANK] Abandoned Farms ZH v1"
-call RENAME_From_To.bat "Arab Tragedy ZHv3" "[RANK] A New Tradegy ZH v1"
+call RENAME_From_To.bat "Tragedy Tracks" "[RANK] A New Tradegy ZH v1"
 call RENAME_From_To.bat "Battle Plan ZH v1" "[RANK] Battle Plan ZH v1"
 call RENAME_From_To.bat "Blossoming Valley ZH v1" "[RANK] Blossoming Valley ZH v1"
 call RENAME_From_To.bat "Combat-Island" "[RANK] Combat Island ZH v1"
