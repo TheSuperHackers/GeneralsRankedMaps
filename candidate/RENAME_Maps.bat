@@ -18,6 +18,7 @@ call RENAME_From_To.bat "Stonehenge ZH v1" "[RANK] Stonehenge ZH v1"
 call RENAME_From_To.bat "Tournament Himalaya V5" "[RANK] Tournament Himalaya ZH v1"
 call RENAME_From_To.bat "White Hell ZH v1" "[RANK] White Hell ZH v1"
 call RENAME_From_To.bat "[RANK] Forgotten Air Battle ZH v6" "[RANK] Forgotten Air Battle ZH v5"
+call RENAME_From_To.bat "[RANK] Tournament in the Canyon vB1" "[RANK] Tournament in the Canyon B ZH v2"
 :: 2v2
 call RENAME_From_To.bat "Bricks 2v2 ZH v1" "[RANK] Final Departure ZH v1"
 call RENAME_From_To.bat "Burning Deadline ZH v1" "[RANK] Burning Deadline ZH v1"
