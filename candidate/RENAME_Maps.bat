@@ -36,7 +36,7 @@ call RENAME_From_To.bat "Philippine Highlands" "[RANK] Philippine Highlands ZH v
 call RENAME_From_To.bat "Subjugation Mk 14 [WBC Winner]" "[RANK] Subjugation ZH v1"
 call RENAME_From_To.bat "Territorial Dispute" "[RANK] Territorial Dispute ZH v1"
 :: 4v4
-call RENAME_From_To.bat "Dusty Rampage v3" "[RANK] Dusty Rampage ZH v1"
+call RENAME_From_To.bat "Dusty Rampage v4" "[RANK] Dusty Rampage ZH v1"
 call RENAME_From_To.bat "TT Twister" "[RANK] Twister Land ZH v1"
 :: fun
 call RENAME_From_To.bat "Mortal Temptation X" "[RANK] Mortal Temptation ZH v1"
