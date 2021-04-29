@@ -40,4 +40,4 @@ call RENAME_From_To.bat "Territorial Dispute" "[RANK] Territorial Dispute ZH v1"
 call RENAME_From_To.bat "Dusty Rampage v4" "[RANK] Dusty Rampage ZH v1"
 call RENAME_From_To.bat "TT Twister" "[RANK] Twister Land ZH v1"
 :: fun
-call RENAME_From_To.bat "Mortal Temptation X" "[RANK] Mortal Temptation ZH v1"
+call RENAME_From_To.bat "Mortal_Temptation [WBC2020]" "[RANK] Mortal Temptation ZH v1"
