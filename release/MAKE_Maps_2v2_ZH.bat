@@ -3,8 +3,18 @@ echo off
 set FILENAME=Maps_2v2_ZH.zip
 
 set MAPS=
-::2019,2020
 ::LEGACY2021 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Christmas ZH v3/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Christmas ZH v3/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Conflict Zone ZH v2/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Desert Combat ZH v2/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/FE NoBug ZH v1/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/FE NoWall ZH v1/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Maguso ZH v2/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Mountain Path ZH v3/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Toxic ZH v3/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Unity A ZH v2/*"
+::OBSOLETE2019 set MAPS=%MAPS% "maps_2v2_zh/Volcanoe ZH v1/*"
+::2019,2020
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Conflict Zone ZH v2/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Desert Combat ZH v2/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] FE NoBug ZH v1/*"
