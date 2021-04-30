@@ -1,7 +1,9 @@
-
 echo off
+
 set FILENAME=Maps_2v2_ZH.zip
+
 set MAPS=
+::2019,2020
 ::LEGACY2021 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Christmas ZH v3/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Conflict Zone ZH v2/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Desert Combat ZH v2/*"
@@ -20,8 +22,19 @@ set MAPS=%MAPS% "maps_2v2_zh/[RANK] [NMC 2x2] Coastline Wold/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] [NMC 2x2] Ghostly Rocks/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] [NMC 2x2] Maguso/*"
 set MAPS=%MAPS% "maps_2v2_zh/[RANK] [NMC 2x2] Middle Fight/*"
+::2021
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Burning Deadline ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Bursting Asunder ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Combat Encounter ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Drowning Horses ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Fall Out ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Final Departure ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Hidden Pearls ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Lion Heart ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Rubies and Pearls ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Tournament A ZH v1/*"
+set MAPS=%MAPS% "maps_2v2_zh/[RANK] Whispering Woods ZH v1/*"
+
 echo on
 
 tar.exe -a -c -f %FILENAME% --strip-components=1 %MAPS%
-
-pause
