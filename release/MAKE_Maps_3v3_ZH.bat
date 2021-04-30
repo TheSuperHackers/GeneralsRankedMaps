@@ -1,6 +1,8 @@
+call SETUP_Folders.bat
+
 echo off
 
-set FILENAME=Maps_3v3_ZH.zip
+set FILENAME=%ReleaseDir%\Maps_3v3_ZH.zip
 
 set MAPS=
 ::2018

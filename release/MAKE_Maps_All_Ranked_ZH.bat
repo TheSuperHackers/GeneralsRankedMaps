@@ -1,6 +1,8 @@
+call SETUP_Folders.bat
+
 echo off
 
-set FILENAME=Maps_All_Ranked_ZH.zip
+set FILENAME=%ReleaseDir%\Maps_All_Ranked_ZH.zip
 
 set MAPS=
 set MAPS=%MAPS% "maps_1v1_zh/*"

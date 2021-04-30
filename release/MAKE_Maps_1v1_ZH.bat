@@ -1,6 +1,8 @@
+call SETUP_Folders.bat
+
 echo off
 
-set FILENAME=Maps_1v1_ZH.zip
+set FILENAME=%ReleaseDir%\Maps_1v1_ZH.zip
 
 set MAPS=
 ::REDUNDANT2020 set MAPS=%MAPS% "maps_1v1_zh/[RANK] Antarctic Lagoon ZH v3/*"

@@ -1,6 +1,8 @@
+call SETUP_Folders.bat
+
 echo off
 
-set FILENAME=Maps_2v2_ZH.zip
+set FILENAME=%ReleaseDir%\Maps_2v2_ZH.zip
 
 set MAPS=
 ::LEGACY2021 set MAPS=%MAPS% "maps_2v2_zh/[RANK] Christmas ZH v3/*"
