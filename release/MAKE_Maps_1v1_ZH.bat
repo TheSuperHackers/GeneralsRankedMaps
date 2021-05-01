@@ -135,6 +135,7 @@ set MAPS=%MAPS% "maps_1v1_zh/[RANK] [NMC] Summer Arena/*"
 set MAPS=%MAPS% "maps_1v1_zh/[RANK] [NMC] Tournament Arena/*"
 set MAPS=%MAPS% "maps_1v1_zh/[RANK] [NMC] Tournament City/*"
 ::2021
+set MAPS=%MAPS% "maps_1v1_zh/[RANK] A New Tragedy ZH v1/*"
 set MAPS=%MAPS% "maps_1v1_zh/[RANK] Abandoned Farms ZH v1/*"
 set MAPS=%MAPS% "maps_1v1_zh/[RANK] Barren Badlands Balanced ZH v2/*"
 set MAPS=%MAPS% "maps_1v1_zh/[RANK] Battle Plan ZH v1/*"
