@@ -10,22 +10,23 @@ Please create GitHub Account with identifiable community nickname and fork this 
 
 All maps must adhere to the following standards for future ranking:
 1. Fair map layout that gives all players and teams equal chance of winning
-2. AI support
+2. Functional AI on all spawn points
 3. No usable cars
 4. Natural ambient light and shadows
 5. Natural ambient sounds
 6. No campaign sounds or scripts
-7. No graphics on the map that belong to real or fictional characters/groups/organizations
+7. No graphics that belong to real or fictional characters/groups/organizations
 8. Correct map credits in short text line or no credits (*1)
 9. Title text must not show longer than 8 seconds and must not start later than 0 seconds after map entry
 10. No map.ini changes that carry over to other maps
 11. Map name fits the overall style of Official Maps and ReLaX Maps
-12. Map name ends with **vX** tag where **v** stands for version and **X** is a number
-13. Zero Hour map name contains **ZH** tag before **vX** tag
-14. Map preview image must be default generated, unless map requires a custom thumbnail to explain slot usage
-15. Map preview image must not exceed 2^16 bytes, unless map requires a special thumbnail
-16. Supply pile money value must not exceed 3750 $
-17. Supply stash money value should not exceed 30000 $, but if it does, nearby terrain must have imprint of money value
+12. Map name must not contain any tags or keywords other than those required for Ranked Maps
+13. Map name ends with **vX** tag where **v** stands for version and **X** is a number
+14. Zero Hour map name contains **ZH** tag before **vX** tag
+15. Map preview image must be default generated, unless map requires a custom thumbnail to explain slot usage
+16. Map preview image must not exceed 2^16 bytes, unless map requires a special thumbnail
+17. Supply pile money value must not exceed 3750 $
+18. Supply stash money value should not exceed 30000 $, but if it does, nearby terrain must have imprint of money value
 
 *1 Two styles are accepted: "Map created by MAPCREATOR" and "MAPNAME, by MAPCREATOR". Map name must not have **ZH** and **vX** tag.
 
