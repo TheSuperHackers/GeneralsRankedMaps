@@ -24,6 +24,8 @@ All maps must adhere to the following standards for future ranking:
 13. Zero Hour map name contains **ZH** tag before **vX** tag
 14. Map preview image must be default generated, unless map requires a custom thumbnail to explain slot usage
 15. Map preview image must not exceed 2^16 bytes, unless map requires a special thumbnail
+16. Supply pile money value must not exceed 3750 $
+17. Supply stash money value should not exceed 30000 $, but if it does, nearby terrain must have imprint of money value
 
 *1 Two styles are accepted: "Map created by MAPCREATOR" and "MAPNAME, by MAPCREATOR". Map name must not have **ZH** and **vX** tag.
 
