@@ -7,11 +7,18 @@ assignees: ''
 
 ---
 
-**Issue Description**
+## Observed behaviour
+
 A clear and concise description of what the problem is.
 
-**Expected behavior**
+## Expected behavior
+
 A clear and concise description of what is expected to happen.
 
-**Screenshots**
+## Screenshots
+
 Screenshot of the problem, if applicable.
+
+## Videos
+
+Video of the problem, if applicable.
