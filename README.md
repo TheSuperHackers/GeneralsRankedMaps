@@ -6,6 +6,8 @@ This repository contains all Generals Zero Hour Ranked Maps.
 
 Please create GitHub Account with identifiable community nickname and fork this repository. You can then add or change maps in candidate folder. When done, please create a Pull Request and reposity owner will accept it after review.
 
+---
+
 All maps must adhere to the following standards for future ranking:
 
 1. Has fair map layout that gives all players and teams equal chance of winning
@@ -29,10 +31,15 @@ All maps must adhere to the following standards for future ranking:
 19. Supply pile money value must not exceed 3750 $
 20. Supply stash money value should not exceed 30000 $, but if it does, supply stash needs to be highlighted for being high value
 21. Uses houses with fully functional fire port setups (*2)
-22. Uses rotations for Tech Buildings (Oil Derrick, Refinery, Artillery Platform, Hospital, Repair Bay) that properly show their flag for the default camera
+22. Uses rotations for Tech Buildings that properly show their flag for the default camera (*3)
+
+---
 
 *1 Two styles are accepted: "Map created by MAPCREATOR" and "MAPNAME, by MAPCREATOR". Map name must not have **ZH** and **vX** tag.
-*2 If a grarrisonable house with missing fire ports is used, then the terrain around this house must be flat and/or the house must be elevated to reduce chances of its occupants damaging themselves when their missiles spawn at position 0,0,0 of the bugged house.
+
+*2 Affects many buildings. Bugged states also vary depending on Damages, Daylight and Weather. If a grarrisonable house with missing fire ports is used, then the terrain around this house must be flat and/or the house must be elevated to reduce chances of its occupants damaging themselves when their missiles spawn at position 0,0,0 of the bugged house.
+
+*3 Tech Buildings include: Oil Derrick, Refinery, Artillery Platform, Hospital, Repair Bay.
 
 ## How to contribute as Map Tester
 
