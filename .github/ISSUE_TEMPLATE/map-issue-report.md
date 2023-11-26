@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Observed behaviour
+## Observed behavior
 
 A clear and concise description of what the problem is.
 
