@@ -8,8 +8,8 @@ Please create GitHub Account with identifiable community nickname and fork this 
 
 All maps must adhere to the following standards for future ranking:
 
-1. Fair map layout that gives all players and teams equal chance of winning
-2. Functional AI on all spawn points
+1. Has fair map layout that gives all players and teams equal chance of winning
+2. Has functional AI on all spawn points
 3. Has no usable cars
 4. Has natural ambient light and shadows
 5. Has natural ambient sounds
@@ -28,8 +28,11 @@ All maps must adhere to the following standards for future ranking:
 18. Map preview image must not exceed 65536 bytes, unless map requires a special thumbnail
 19. Supply pile money value must not exceed 3750 $
 20. Supply stash money value should not exceed 30000 $, but if it does, supply stash needs to be highlighted for being high value
+21. Uses houses with fully functional fire port setups (*2)
+22. Uses rotations for Tech Buildings (Oil Derrick, Refinery, Artillery Platform, Hospital, Repair Bay) that properly show their flag for the default camera
 
 *1 Two styles are accepted: "Map created by MAPCREATOR" and "MAPNAME, by MAPCREATOR". Map name must not have **ZH** and **vX** tag.
+*2 If a grarrisonable house with missing fire ports is used, then the terrain around this house must be flat and/or the house must be elevated to reduce chances of its occupants damaging themselves when their missiles spawn at position 0,0,0 of the bugged house.
 
 ## How to contribute as Map Tester
 
