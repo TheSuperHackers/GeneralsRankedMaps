@@ -19,26 +19,11 @@ def run():
         map_folder: Path
         for map_folder in path.glob("*"):
 
-            map_str: str = map_folder.stem
-            new_map_str: str = map_str
+            map_str = map_folder.stem
+            if map_str.startswith("[RANK]"):
+                continue
 
-            new_map_str = new_map_str.replace(" ZH", "")
-            new_map_str = new_map_str.replace(" zh", "")
-            new_map_str = new_map_str.strip()
-
-            version = 1
-            version_pos = new_map_str.rfind("v")
-            if version_pos < 0:
-                version_pos = new_map_str.rfind("V")
-
-            if version_pos > 0:
-                version_str = new_map_str[version_pos+1:]
-                if version_str.isnumeric():
-                    version = int(version_str)
-                    new_map_str = new_map_str[:version_pos]
-
-            new_map_str = new_map_str.strip()
-            new_map_str += f" ZH v{version}"
+            new_map_str = "[RANK] " + map_str
 
             map_file = map_folder / (map_str + ".map")
             tga_file = map_folder / (map_str + ".tga")
