@@ -13,7 +13,7 @@ set MAPS=%MAPS% "maps_3v3_zh/Tournament Graveyard ZH v2/*"
 set MAPS=%MAPS% "maps_3v3_zh/Transition ZH v2/*"
 set MAPS=%MAPS% "maps_3v3_zh/Unity B ZH v2/*"
 ::2021
-set MAPS=%MAPS% "maps_3v3_zh/[RANK] Coral Islands ZH v1/*"
+::SUPERSEDED2024 set MAPS=%MAPS% "maps_3v3_zh/[RANK] Coral Islands ZH v1/*"
 set MAPS=%MAPS% "maps_3v3_zh/[RANK] Defcon Balanced ZH v1/*"
 set MAPS=%MAPS% "maps_3v3_zh/[RANK] Icy Frontier ZH v1/*"
 set MAPS=%MAPS% "maps_3v3_zh/[RANK] Naval Port Reyes ZH v1/*"
