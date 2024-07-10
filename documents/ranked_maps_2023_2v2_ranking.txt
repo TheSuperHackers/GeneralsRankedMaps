@@ -1,0 +1,35 @@
+
+#    Map Name                                     Matches     Percent
+
+12   [rank] [nmc 2x2] coastline wold              7795        1.48%
+16   [rank] tournament a zh v1                    6509        1.24%
+19   [rank] volcanoe zh v1                        5091        0.97%
+27   [rank] unity a zh v2                         3985        0.76%
+29   [rank] burning deadline zh v1                3952        0.75%
+32   [rank] fe nobug zh v1                        3596        0.68%
+35   [rank] rubies and pearls zh v1               3128        0.59%
+36   [rank] make make 4 zh v2                     2935        0.56%
+39   [rank] drowning horses zh v1                 2685        0.51%
+42   [rank] lion heart zh v1                      2581        0.49%
+45   [rank] conflict zone zh v2                   2432        0.46%
+47   [rank] fe nowall zh v1                       2409        0.46%
+51   [rank] combat encounter zh v1                2198        0.42%
+54   [rank] [nmc 2x2] maguso                      1901        0.36%
+56   [rank] hidden pearls zh v1                   1745        0.33%
+59   [rank] final departure zh v1                 1689        0.32%
+61   [rank] mountain path zh v4                   1633        0.31%
+65   [rank] maguso zh v3                          1414        0.27%
+
+Taken out GenTool download starting here:
+
+67   [rank] desert combat zh v2                   1334        0.25%
+68   [rank] whispering woods zh v1                1333        0.25%
+72   [rank] [nmc 2x2] ghostly rocks               1197        0.23%
+75   [rank] bursting asunder zh v1                1064        0.20%
+83   [rank] fall out zh v1                        857         0.16%
+88   [rank] [nmc 2x2] aftermath                   725         0.14%
+89   [rank] [nmc 2x2] middle fight                688         0.13%
+94   [rank] lost temple zh v1                     585         0.11%
+457  [rank] toxic zh v3                           46          0.01%
+574  [rank] target tournament zh v1               34          0.01%
+581  [rank] christmas zh v3                       34          0.01%

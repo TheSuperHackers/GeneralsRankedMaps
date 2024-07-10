@@ -1,0 +1,88 @@
+
+#    Map Name                                     Matches     Percent
+
+3    [rank] snowy drought v4                      66327       5.60%
+4    [rank] vendetta zh v1                        62630       5.29%
+7    [rank] td nobugscars zh v1                   28724       2.42%
+8    [rank] drallim desert zh v2                  26192       2.21%
+9    [rank] canyon of the dead zh v2              23271       1.96%
+10   [rank] sand scorpion                         22681       1.91%
+11   [rank] oil rampage zh v1                     19307       1.63%
+14   [rank] imminent victory zh v2                16731       1.41%
+17   [rank] artic lagoon                          15061       1.27%
+21   [rank] blossoming valley zh v1               10644       0.90%
+24   [rank] natural threats zh v3                 9019        0.76%
+27   [rank] liquid gold zh v2                     7719        0.65%
+31   [rank] [nmc] summer arena                    6820        0.58%
+35   [rank] desolated district zh v1              6503        0.55%
+37   [rank] farmlands of the fallen zh v1         6288        0.53%
+44   [rank] abandoned desert zh v1                5314        0.45%
+47   [rank] [nmc] blasted lands                   5210        0.44%
+50   [rank] td classic nocars zh v1               5139        0.43%
+51   [rank] mountain mayhem v2                    4937        0.42%
+52   [rank] lagoon zh v5                          4883        0.41%
+60   [rank] plant waste zh v2                     4083        0.34%
+63   [rank] dedusu zh v1                          3688        0.31%
+66   [rank] barren badlands balanced zh v2        3420        0.29%
+68   [rank] sovereignty zh v1                     3307        0.28%
+69   [rank] zh carrier is over v2                 3192        0.27%
+71   [rank] battle plan zh v1                     3169        0.27%
+72   [rank] cold territory zh v2                  3055        0.26%
+73   [rank] [nmc] battle on the river             3043        0.26%
+74   [rank] egyptian oasis zh v1                  3016        0.25%
+75   [rank] [nmc] tournament arena                2980        0.25%
+77   [rank] forgotten air battle zh v5            2964        0.25%
+80   [rank] abandoned farms zh v1                 2639        0.22%
+84   [rank] stonehenge zh v1                      2332        0.20%
+85   [rank] oil oasis zh v1                       2311        0.20%
+86   [rank] white hell zh v1                      2308        0.19%
+87   [rank] a new tragedy zh v1                   2238        0.19%
+89   [rank] ammars sandcastles v3                 2197        0.19%
+90   [rank] homeland rocks zh v4                  2035        0.17%
+94   [rank] gold cobra                            1890        0.16%
+95   [rank] winter arena                          1814        0.15%
+96   [rank] combat island zh v1                   1810        0.15%
+97   [rank] arena of war zh v1                    1791        0.15%
+
+Taken out GenTool download starting here:
+
+98   [rank] glacial shores zh v2                  1774        0.15%
+100  [rank] tournament delta zh v2                1735        0.15%
+104  [rank] [nmc] tournament city                 1655        0.14%
+106  [rank] mountain oil zh v1                    1617        0.14%
+107  [rank] final crossroad zh v1                 1614        0.14%
+108  [rank] freezing rain zh v2                   1601        0.14%
+109  [rank] melting snow zh v4                    1581        0.13%
+110  [rank] annihilation                          1546        0.13%
+115  [rank] eagle eye                             1380        0.12%
+116  [rank] bozic destruction zh v3               1304        0.11%
+117  [rank] irish front zh v1                     1303        0.11%
+125  [rank] planet coyon zh v1                    1167        0.10%
+126  [rank] jungle wolf zh v3                     1136        0.10%
+129  [rank] down the road zh v1                   1096        0.09%
+130  [rank] bitter winter balanced nocars zh v1   1091        0.09%
+131  [rank] uneven heights v3                     1091        0.09%
+132  [rank] eight zh v2                           1090        0.09%
+133  [rank] storm valley                          1090        0.09%
+136  [rank] total domination no sdz zh v1         1066        0.09%
+137  [rank] make make 2 zh v4                     1015        0.09%
+140  [rank] embattled land zh v2                  1003        0.08%
+145  [rank] deserted village v3                   946         0.08%
+157  [rank] area j1                               844         0.07%
+159  [rank] rebellion zh v1                       809         0.07%
+160  [rank] devastated oasis zh v2                797         0.07%
+161  [rank] tournament himalaya zh v1             795         0.07%
+163  [rank] the survivors zh v1                   774         0.07%
+164  [rank] sleeping dragon v3                    773         0.07%
+165  [rank] winter wolf balanced zh v1            760         0.06%
+167  [rank] danger close zh                       756         0.06%
+169  [rank] scorched earth zh v3                  726         0.06%
+170  [rank] hidden treasures v2                   698         0.06%
+172  [rank] onza map v1                           696         0.06%
+177  [rank] wasteland warlords revised            643         0.05%
+180  [rank] highway 99 zh v2                      631         0.05%
+182  [rank] early spring zh v2                    606         0.05%
+183  [rank] lost valley v2                        602         0.05%
+187  [rank] scaraa zh v1                          587         0.05%
+196  [rank] hard winter zh v2                     488         0.04%
+221  [rank] forest of oblivion zh v1              357         0.03%
