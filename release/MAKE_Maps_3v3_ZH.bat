@@ -5,8 +5,8 @@ echo off
 set FILENAME=%ReleaseDir%\Maps_3v3_ZH.zip
 
 set MAPS=
-::LEGACY2021 set MAPS=%MAPS% "maps_3v3_zh/Industrial Arena ZH v1/*"
-::OBSOLETE2021 set MAPS=%MAPS% "maps_fun_zh/[AOD] Cobalt Rush/*"
+::UNPOPULAR_2021 set MAPS=%MAPS% "maps_3v3_zh/Industrial Arena ZH v1/*"
+::SUPERSEDED_2021 set MAPS=%MAPS% "maps_fun_zh/[AOD] Cobalt Rush/*"
 ::2018
 set MAPS=%MAPS% "maps_3v3_zh/Armored Fury ZH v2/*"
 set MAPS=%MAPS% "maps_3v3_zh/Tournament Graveyard ZH v2/*"
