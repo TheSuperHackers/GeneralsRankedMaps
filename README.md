@@ -84,6 +84,10 @@ The rotations of Tech Buildings must be optimized to properly show their flag to
 
 USA and China must not be able to drop Dozers or other vehicles on terrain that cannot be reached by regular ground forces.
 
+### 18. Map radar must work in replay
+
+Loading the custom map as a replay must show the mini map correctly.
+
 ---
 
 # How to contribute as Map Tester
